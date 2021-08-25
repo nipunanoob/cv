@@ -1,0 +1,30 @@
+body {
+  background-color: #170055;
+  color: rgba(255, 255, 255, 0.714);
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: greenyellow;
+  border-width: 7px;
+  height: 0px;
+  width: 5%;
+}
+img {
+  height: 200px;
+}
+h1 {
+  color: #3e00ff;
+}
+h3 {
+  color: #ae00fb;
+}
+img {
+  border-radius: 50%;
+}
+a:link {
+  color: yellow;
+}
+a:visited {
+  color: yellowgreen;
+}
